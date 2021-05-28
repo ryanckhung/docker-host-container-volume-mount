@@ -1,5 +1,5 @@
-contaienr => /home
-host => /Users/ryan/Desktop/temp
+contaienr: /home
+host: /Users/ryan/Desktop/temp
 put the index.txt file in the host path (/Users/ryan/Desktop/temp)
 
 docker build -t test01 .
